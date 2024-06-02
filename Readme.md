@@ -1,4 +1,5 @@
 Telegram: https://t.me/toolmmo01
+Demo: https://youtu.be/1In_5SPD7Rs
 # Features
     + Auto Claim Blum
     + Auto Playing Game with max score
