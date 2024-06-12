@@ -1,3 +1,5 @@
+# Support me by joining this referral link and sending me a message via telegram, you will be able to use the tool for free for 1 week.
+Ref:t.me/BlumCryptoBot/app?startapp=ref_zR2aDODWCd
 Telegram: https://t.me/toolmmo01
 Demo: https://youtu.be/1In_5SPD7Rs
 # Features
